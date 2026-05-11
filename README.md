@@ -105,8 +105,7 @@ If you’re building in AI, infrastructure, or decentralized systems, feel free 
 ## Connect
 
 🌐 Website: https://taoscope.com  
-🐦 X/Twitter: https://x.com/TaoScope  
-💬 Telegram: https://t.me/TaoScopeOfficial
+
 
 ---
 
